@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JackersCode
+- 👀 I’m interested in ... Any python that will help me find, or exploit any vulnerabilities I can find
+- 🌱 I’m currently learning ... Cyber Security
