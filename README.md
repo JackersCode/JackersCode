@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @JackersCode
-- 👀 I’m interested in ... Any python that will help me find, or exploit any vulnerabilities I can find
-- 🌱 I’m currently learning ... Cyber Security
+- 👋 Hi, I’m @JackersCode I am a 22 Year old australian working for a Cyber Security company looking to help secure code. 
+- 👀 My Main intrests are python and JavaScript.
+- 🌱 Any thing that I commit please feel free to leave feedback, as I will happily take any and all help I can.
+- Ill see you in the Meta Verse.
