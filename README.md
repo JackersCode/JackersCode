@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackersCode I am a 22 Year old australian working at SecureStack.
+- 👋 Hi, I’m @JackersCode Australian working at SecureStack.
 - 👀 My Main intrests include:
 -      Application Security
 -      AWS
